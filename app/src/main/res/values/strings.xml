@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Project11_2</string>
+    <string name="title1">뷰티인사이드</string>
+    <string name="title2">라라랜드</string>
+    <string name="title3">부다페스트</string>
+    <string name="title4">겨울왕국</string>
+    <string name="title5">Carol</string>
+    <string name="title6">Amelie</string>
+    <string name="title7">우리의 20세기</string>
+    <string name="title8">Call me by your name</string>
+    <string name="title9">어느 하녀의 일기</string>
+    <string name="title10">The souvenir</string>
 </resources>
